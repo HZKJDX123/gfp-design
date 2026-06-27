@@ -1,0 +1,8 @@
+fair-esm
+transformers
+xgboost
+scikit-learn
+pandas
+numpy
+biopython
+torch
